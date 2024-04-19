@@ -1,0 +1,9 @@
+.DS_Store
+gbc-historico-server.code-workspace
+*.zip
+.vscode
+.env
+node_modules/
+.dockerignore
+docker-compose.yml
+Dockerfile

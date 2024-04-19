@@ -1,0 +1,28 @@
+{
+	"name": "uuid-peticion",
+	"version": "1.0.5",
+	"description": "Libreria para manejo de uuid y url de peticiones",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Ayac07/uuid-peticion.git"
+	},
+	"keywords": [
+		"uuid",
+		"peticion",
+		"url"
+	],
+	"author": "Ayac Valdez",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Ayac07/uuid-peticion/issues"
+	},
+	"homepage": "https://github.com/Ayac07/uuid-peticion#readme",
+	"dependencies": {
+		"log4js": "^6.9.1",
+		"uuid": "^9.0.1"
+	}
+}
